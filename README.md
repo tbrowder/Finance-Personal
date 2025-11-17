@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/tbrowder/Finance-Personal/actions/workflows/linux.yml/badge.svg)](https://github.com/tbrowder/Finance-Personal/actions) [![Actions Status](https://github.com/tbrowder/Finance-Personal/actions/workflows/macos.yml/badge.svg)](https://github.com/tbrowder/Finance-Personal/actions) [![Actions Status](https://github.com/tbrowder/Finance-Personal/actions/workflows/windows.yml/badge.svg)](https://github.com/tbrowder/Finance-Personal/actions)
+
 NAME
 ====
 
