@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides Raku tools and routines to help manage personal finances\n",
+  "license": "Artistic-2.0",
+  "name": "Finance::Personal",
+  "perl": "6.d",
+  "provides": {
+    "Finance::Personal": "lib/Finance/Personal.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
